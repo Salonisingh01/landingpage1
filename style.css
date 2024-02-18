@@ -1,0 +1,84 @@
+body{
+    background-image:url(beachh.jpg) ;
+    background-size: cover;
+}
+nav{
+    height:50px;
+    width:1700px;
+    
+}
+a{
+    color: darkblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+.header{
+    color: darkblue;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+   
+}
+h1{
+    font-size: 30px;
+    color: darkblue;
+}
+.main{
+    margin-top: 120px;
+}
+
+#box1{
+    font-size: 30px;
+    font-family:cursive;
+    color: darkblue;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+#box2{
+    font-size: 80px;
+    font-family:cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+#b1{
+    background-color:darkblue;
+    color: white;
+    text-align: center;
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    border: none;
+    margin-top: 200px;
+    margin-left: 180px;
+}
+#b2{
+    background-color:darkblue;
+    color: white;
+    text-align: center;
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    border: none;
+    margin-top: 200px;
+    margin-left:850px;
+}
+p{
+    color:rgb(43, 2, 192);
+   font-size: 20px;
+   margin-left: 540px;
+   margin-top: 10px;
+}
+input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 50%;
+    background: #f1f1f1;
+}
+
+  
